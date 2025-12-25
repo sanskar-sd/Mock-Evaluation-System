@@ -42,8 +42,7 @@ A role-based **Mock Evaluation Management System** built using **MERN Stack** fo
 
 ---
 
-🔄 App Flow
-
+**🔄 App Flow**
 Login / Register 🔐
 Admin → Admin Dashboard 👨‍💼
 Evaluator → Evaluator Dashboard 🧑‍🏫
