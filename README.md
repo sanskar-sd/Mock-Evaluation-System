@@ -41,7 +41,7 @@ A role-based **Mock Evaluation Management System** built using **MERN Stack** fo
 - JWT, bcryptjs
 
 ---
-```
+
 🔄 App Flow
 
 Login / Register 🔐
@@ -49,4 +49,3 @@ Admin → Admin Dashboard 👨‍💼
 Evaluator → Evaluator Dashboard 🧑‍🏫
 Admin assigns evaluators → Evaluator submits results
 Admin views evaluation reports 📊
-```
